@@ -8,7 +8,7 @@ Course: information's technology in Business systems
 Subject: PROG5121
 Links
 GitHub Repository: https://github.com/ST10476343/PROG5121-Part2/tree/main
-YouTube Video:
+YouTube Video: https://youtu.be/KeimIa6aNFI
 GitHub and GitHub Actions Utilization
 ---
 GitHub and GitHub Actions
