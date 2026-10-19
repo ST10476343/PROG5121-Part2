@@ -7,7 +7,7 @@ Group: Group2
 Course: information's technology in Business systems
 Subject: PROG5121
 Links
-GitHub Repository: https://github.com/ST10476343/PROG5121-Part1/tree/main
+GitHub Repository: https://github.com/ST10476343/PROG5121-Part2/tree/main
 YouTube Video:
 GitHub and GitHub Actions Utilization
 ---
